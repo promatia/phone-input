@@ -1,1 +1,3 @@
-export { default } from './src/phone.vue'
+import phone from './src/phone.vue'
+
+export default phone

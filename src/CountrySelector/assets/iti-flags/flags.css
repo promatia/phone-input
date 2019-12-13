@@ -1,7 +1,6 @@
 .iti-flag {
   /* background-size: 5630px 15px; */
    background-size: 11304px 30px;
-   transform: scale(0.8);
 }
 
 .iti-flag {
@@ -1061,10 +1060,10 @@
 .iti-flag {
    width: 40px;
    height: 30px;
-  background-repeat: no-repeat;
-  background-color: #dbdbdb;
-  background-position: 20px 0;
+   background-repeat: no-repeat;
+   background-color: #dbdbdb;
+   background-position: 0px 0;
 }
 .iti-flag.np {
-  background-color: transparent;
+   background-color: transparent;
 }

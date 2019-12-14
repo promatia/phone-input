@@ -1,6 +1,7 @@
 {
   "name": "@promatia/phone-input",
   "version": "0.1.2",
+  "type": "module",
   "dependencies": {
     "v-click-outside": "^3.0.0",
     "vue-material-design-icons": "^4.4.0"
